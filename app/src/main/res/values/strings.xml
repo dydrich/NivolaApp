@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nivola</string>
+    <string name="title">Alla scoperta del Nivola</string>
+    <string name="btnHome">Home page</string>
+    <string name="btnAboutUs">Chi siamo</string>
+    <string name="btnContacts">Contatti</string>
+    <string name="labelOrg">Organizzazione</string>
+    <string name="btnHead">Dirigenza</string>
+    <string name="btnSecretary">Segreteria</string>
+    <string name="btnKindergarden">Infanzia</string>
+    <string name="btnPrimary">Primaria</string>
+    <string name="btnSecondary">Secondaria</string>
+    <string name="btnSchools">Le scuole</string>
+</resources>
